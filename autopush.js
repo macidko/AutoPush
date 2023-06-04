@@ -113,3 +113,6 @@ async function runExampleGitCommand(command1, command2, command3, command4) {
 
 
 main();
+
+
+// Invoke-RestMethod -Uri "netlify-trigger-hook" -Method POST
